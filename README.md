@@ -17,7 +17,10 @@ DIP switch (4bit) | - | Digital-IN
 
 ## 指標切り替え  
 - **スイッチ切り替え** により LED の検出指標を変更
-<center><img src="https://github.com/ChouYuduki/co2lemp/blob/main/2.png" width="400"></center>
+<img src="https://github.com/ChouYuduki/co2lemp/blob/main/2.png" align="left" width="40.7%"/>
+<img src="https://github.com/ChouYuduki/co2lemp/blob/main/4.png" align="left" width="43%"/>
+<br clear="both"/>
+
 
 - **室内の CO₂ 濃度・温度・湿度** を測定可能  
 
@@ -29,7 +32,10 @@ DIP switch (4bit) | - | Digital-IN
 - **1000～1500** →   🟢 緑  
 - **1500～2500** →   🟡 黄  
 - **2500～3500** →   🔴 赤  
-- **3500 以上**  →   🟣 紫  
+- **3500 以上**  →   🟣 紫
+
+<center><img src="https://github.com/ChouYuduki/co2lemp/blob/main/3.png" width="600"></center>
+
 
 ##  リアルタイム表示  
 - 各パラメータを **リアルタイムでディスプレイに表示**  
